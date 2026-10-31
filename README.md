@@ -83,7 +83,7 @@ ReyPlot is fully functional and actively maintained. It reflects my ability to d
 ## 🌐 **Connect & Portfolio**
 
 <p align="center">
-  <a href="https://muhammadesa2002.github.io/My_PORTFOLIO/" target="_blank">
+  <a href="https://muhammadessa2002.github.io/My_PORTFOLIO/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/m-essa/" target="_blank">
