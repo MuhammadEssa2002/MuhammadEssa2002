@@ -135,15 +135,6 @@ More on my [portfolio](https://muhammadessa2002.github.io/My_PORTFOLIO/) and in 
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadEssa2002&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEssa2002&layout=compact&hide_border=true&theme=tokyonight"/>
-</p>
-
----
-
 <div align="center">
 
 *From physics equations to data insights, solving problems one line of code at a time.*
